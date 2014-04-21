@@ -10,3 +10,6 @@ Mock Up Design:
 http://i.imgur.com/3yf2eLX.png
 
 Possible Secondary Concept: A standalone application that allows for browsing the web, with control of the browser from multiple parties across a network. (multiple = 2 or more.)
+
+
+Contact: I, GNUzel, can be contacted at Sirbulldog7@gmail.com
